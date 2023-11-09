@@ -1,5 +1,7 @@
 # primeiro_projeto_vue
 
+Meu primeiro projeto com vue , criei uma calculadora que mostra o resultado em tempo real.
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
